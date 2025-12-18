@@ -6,6 +6,9 @@
       <ul>
         <li>java</li>
         <li>c</li>
-        
+        <li>c++</li>
+        <li>python</li>
+    <li>html</li>
+        <li>css</li>
 </html>
 </head>
